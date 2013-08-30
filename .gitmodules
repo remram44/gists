@@ -1,0 +1,6 @@
+[submodule "c-stringify"]
+	path = c-stringify
+	url = https://gist.github.com/5109330.git
+[submodule "c-matrix_to_quaternion"]
+	path = c-matrix_to_quaternion
+	url = https://gist.github.com/5260578.git
