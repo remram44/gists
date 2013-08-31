@@ -1,7 +1,7 @@
 # C
 
-* [stringify.c](https://gist.github.com/remram44/5109330)
 * [matrix_to_quaternion.c](https://gist.github.com/remram44/5260578)
+* [stringify.c](https://gist.github.com/remram44/5109330)
 
 # General
 
@@ -15,10 +15,10 @@
 # Python
 
 * [debugmt.py](https://gist.github.com/remram44/5699241)
-* [QtWrapper.py](https://gist.github.com/remram44/5985681)
 * [ipython_callbacks.py](https://gist.github.com/remram44/5902529)
-* [pickleable_staticmethods](https://gist.github.com/remram44/5769651)
 * [ipython-errors.py](https://gist.github.com/remram44/6395281)
+* [pickleable_staticmethods](https://gist.github.com/remram44/5769651)
+* [QtWrapper.py](https://gist.github.com/remram44/5985681)
 
 # Utils
 

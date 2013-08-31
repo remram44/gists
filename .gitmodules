@@ -1,9 +1,9 @@
-[submodule "c-stringify"]
-	path = c-stringify
-	url = https://gist.github.com/5109330.git
 [submodule "c-matrix_to_quaternion"]
 	path = c-matrix_to_quaternion
 	url = https://gist.github.com/5260578.git
+[submodule "c-stringify"]
+	path = c-stringify
+	url = https://gist.github.com/5109330.git
 [submodule "general-color"]
 	path = general-color
 	url = https://gist.github.com/6284607.git
@@ -16,18 +16,18 @@
 [submodule "python-debugmt"]
 	path = python-debugmt
 	url = https://gist.github.com/5699241.git
-[submodule "python-QtWrapper"]
-	path = python-QtWrapper
-	url = https://gist.github.com/5985681.git
 [submodule "python-ipython_callbacks"]
 	path = python-ipython_callbacks
 	url = https://gist.github.com/5902529.git
-[submodule "python-pickleable_staticmethods"]
-	path = python-pickleable_staticmethods
-	url = https://gist.github.com/5769651.git
 [submodule "python-ipython-errors"]
 	path = python-ipython-errors
 	url = https://gist.github.com/6395281.git
+[submodule "python-pickleable_staticmethods"]
+	path = python-pickleable_staticmethods
+	url = https://gist.github.com/5769651.git
+[submodule "python-QtWrapper"]
+	path = python-QtWrapper
+	url = https://gist.github.com/5985681.git
 [submodule "utils-rename"]
 	path = utils-rename
 	url = https://gist.github.com/6394470.git
