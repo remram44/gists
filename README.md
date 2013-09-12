@@ -17,6 +17,7 @@ General programming stuff that can probably be translated to another language if
 # Python
 
 * [debugmt.py](https://gist.github.com/remram44/5699241): metaclass that logs all the instances' method calls
+* [http_directory.py](https://gist.github.com/remram44/6540454): recursively download a directory via HTTP
 * [ipython_callbacks.py](https://gist.github.com/remram44/5902529): wrapper for IPython.parallel.Client with thread-safe future callbacks
 * [ipython-errors.py](https://gist.github.com/remram44/6395281): routines for formatting RemoteErrors
 * [pickleable_staticmethods](https://gist.github.com/remram44/5769651): metaclass making instance methods pickleable
