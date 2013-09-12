@@ -37,3 +37,6 @@
 [submodule "other/cygwin_wrapper"]
 	path = other/cygwin_wrapper
 	url = https://gist.github.com/4642964.git
+[submodule "python/http_directory"]
+	path = python/http_directory
+	url = https://gist.github.com/6540454.git
