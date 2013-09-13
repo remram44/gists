@@ -40,3 +40,6 @@
 [submodule "python/http_directory"]
 	path = python/http_directory
 	url = https://gist.github.com/6540454.git
+[submodule "python/logstack"]
+	path = python/logstack
+	url = https://gist.github.com/6555809.git

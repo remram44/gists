@@ -20,6 +20,7 @@ General programming stuff that can probably be translated to another language if
 * [http_directory.py](https://gist.github.com/remram44/6540454): recursively download a directory via HTTP
 * [ipython_callbacks.py](https://gist.github.com/remram44/5902529): wrapper for IPython.parallel.Client with thread-safe future callbacks
 * [ipython-errors.py](https://gist.github.com/remram44/6395281): routines for formatting RemoteErrors
+* [logstack](https://gist.github.com/remram44/6555809): adds context to you stack traces
 * [pickleable_staticmethods](https://gist.github.com/remram44/5769651): metaclass making instance methods pickleable
 * [QtWrapper.py](https://gist.github.com/remram44/5985681): compatibility layer allowing transparent use of PyQt4 or PySide
 
