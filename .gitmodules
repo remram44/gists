@@ -43,3 +43,6 @@
 [submodule "python/logstack"]
 	path = python/logstack
 	url = https://gist.github.com/6555809.git
+[submodule "python/https"]
+	path = python/https
+	url = https://gist.github.com/10935541.git
