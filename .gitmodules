@@ -46,3 +46,6 @@
 [submodule "python/https"]
 	path = python/https
 	url = https://gist.github.com/10935541.git
+[submodule "python/twistedconsole"]
+	path = python/twistedconsole
+	url = https://gist.github.com/7659c61ce771989c9ff9.git
