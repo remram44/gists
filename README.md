@@ -4,6 +4,7 @@ General programming stuff that can probably be translated to another language if
 
 * [color.py](https://gist.github.com/remram44/6284607): rgb/hsv conversion, and generator of visually different colors
 * [file_is_binary.py](https://gist.github.com/remram44/5241399): identifies whether a file is binary or plaintext
+* [pbs-vagrant](https://gist.github.com/remram44/01a05dd023cfe5097be7): Vagrant setup for a test PBS cluster
 
 # C
 

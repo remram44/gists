@@ -10,6 +10,9 @@
 [submodule "general/file_is_binary"]
 	path = general/file_is_binary
 	url = https://gist.github.com/5241399.git
+[submodule "general/pbs-vagrant"]
+	path = general/pbs-vagrant
+	url = https://gist.github.com/remram44/01a05dd023cfe5097be7.git
 [submodule "java/TextLoader"]
 	path = java/TextLoader
 	url = https://gist.github.com/1974886.git
