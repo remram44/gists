@@ -25,6 +25,7 @@ General programming stuff that can probably be translated to another language if
 * [pickleable_staticmethods](https://gist.github.com/remram44/5769651): metaclass making instance methods pickleable
 * [QtWrapper.py](https://gist.github.com/remram44/5985681): compatibility layer allowing transparent use of PyQt4 or PySide
 * [twistedconsole.py](https://gist.github.com/7659c61ce771989c9ff9): version of StandardIO that works on Windows
+* [ipc_2to3.py](https://gist.github.com/remram44/ec2fbead9bad035395de): example of multiprocessing between Python 2 & 3 using a POSIX pipe
 
 # Utils
 
