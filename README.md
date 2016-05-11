@@ -26,6 +26,7 @@ General programming stuff that can probably be translated to another language if
 * [QtWrapper.py](https://gist.github.com/remram44/5985681): compatibility layer allowing transparent use of PyQt4 or PySide
 * [twistedconsole.py](https://gist.github.com/7659c61ce771989c9ff9): version of StandardIO that works on Windows
 * [ipc_2to3.py](https://gist.github.com/remram44/ec2fbead9bad035395de): example of multiprocessing between Python 2 & 3 using a POSIX pipe
+* [text_pager.py](https://gist.github.com/remram44/7d9dc3d4844151a1cf9b214a7484363a): breaks a string into chunks of a specified size on whitespace characters
 
 # Utils
 

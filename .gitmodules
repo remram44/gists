@@ -55,3 +55,6 @@
 [submodule "python/ipc_2to3"]
 	path = python/ipc_2to3
 	url = https://gist.github.com/ec2fbead9bad035395de.git
+[submodule "python/text_pager"]
+	path = python/text_pager
+	url = https://gist.github.com/7d9dc3d4844151a1cf9b214a7484363a.git
